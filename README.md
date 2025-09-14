@@ -1,7 +1,7 @@
 # CXR
 This repository holds: <br/>
-1. [LABORATORY DATABASE](https://github.com/mgardner-lab/ToolSafe/blob/main/README.md#laboratory-database) Audio files for tools dropped in laboratory setting
-2. [OR TEST](https://github.com/mgardner-lab/ToolSafe/blob/main/README.md#or-test) Audio files for tools dropped in simulated OR setting
+1. [LABORATORY DATABASE](https://github.com/mgardner-lab/ToolSafe/blob/main/README.md#laboratory-database) audio files for tools dropped in laboratory setting
+2. [OR TEST](https://github.com/mgardner-lab/ToolSafe/blob/main/README.md#or-test) audio files for tools dropped in simulated OR setting
 3. Our [PUBLICATIONS](https://github.com/mgardner-lab/ToolSafe/blob/main/README.md#publications) using these data
 
 # LABORATORY DATABASE
