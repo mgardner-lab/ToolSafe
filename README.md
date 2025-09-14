@@ -7,13 +7,13 @@ This repository holds: <br/>
 # LABORATORY DATABASE
 The following directory has audio files categorized by tool type and also contains a zipped file of all audio files (.wav). 
 
-[Directory:](https://www.dropbox.com/scl/fo/euw87iinse4iv48e7tx4u/AJsMT3aWmG-bGDi_Kfq7-tA?rlkey=rqoiy61g6hdedljpsc8v8qfxu&dl=0)<br/>
+[Directory](https://www.dropbox.com/scl/fo/euw87iinse4iv48e7tx4u/AJsMT3aWmG-bGDi_Kfq7-tA?rlkey=rqoiy61g6hdedljpsc8v8qfxu&dl=0)<br/>
 
 # OR TEST
 
 The following directory has audio files categorized by tool type and also contains a zipped file of all audio files (.wav). 
 
-[Directory:](https://www.dropbox.com/scl/fo/svoargayq7ykl9l1ncodv/AOKb5EdylHqzZPs4sTme1Co?rlkey=xdbai515tn1sqabb9opkl1e14&dl=0)<br/>
+[Directory](https://www.dropbox.com/scl/fo/svoargayq7ykl9l1ncodv/AOKb5EdylHqzZPs4sTme1Co?rlkey=xdbai515tn1sqabb9opkl1e14&dl=0)<br/>
 
 # PUBLICATIONS
 
